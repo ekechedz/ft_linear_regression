@@ -2,7 +2,6 @@
 
 [![Rust](https://img.shields.io/badge/Rust-1.91+-blue?logo=rust)](https://www.rust-lang.org/)  
 [![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A **simple linear regression project** implemented in **Rust**, predicting car prices based on mileage.  
 It uses **manual gradient descent** (no ML libraries) and includes **bonus features**: dataset plotting, regression line visualization, and RMSE calculation.
